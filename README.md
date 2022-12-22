@@ -1,4 +1,4 @@
-# PokemonCenterChatbot
+# Pokemon Center Chatbot
 
 This is a fun project that simulates the interaction between a user and the Pokemon center.
 
